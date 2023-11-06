@@ -8,7 +8,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
 1.Import the libraries and read the data frame using pandas.
 2.Calculate the null values present in the dataset and apply label encoder.
 3.Determine test and training data set and apply decison tree regression in dataset.
@@ -16,7 +15,6 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Program:
 ```
-/*
 /*
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: magesh v
@@ -56,9 +54,7 @@ plt.scatter(df2["Annual Income (k$)"],df2["Spending Score (1-100)"],c="lightskyb
 plt.scatter(df3["Annual Income (k$)"],df3["Spending Score (1-100)"],c="green",label="cluster3")
 plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="pink",label="cluster4")
 plt.legend()
-plt.title("Customer Segments")
-
-*/  
+plt.title("Customer Segments")  
 */
 ```
 
